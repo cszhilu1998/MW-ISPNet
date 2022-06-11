@@ -1,6 +1,6 @@
 # MW-ISPNet
 
-This is the official PyTorch implement of MW-ISPNet. Our Team recieved a Winner award in the AIM 2020 Learned Image ISP challenge (ECCVW 2020). 
+This is the official PyTorch implementation  of MW-ISPNet. Our team received a Winner award in the AIM 2020 Learned Image ISP challenge (ECCVW 2020). 
 
 See more details from [paper](https://arxiv.org/pdf/2011.04994.pdf).
 
